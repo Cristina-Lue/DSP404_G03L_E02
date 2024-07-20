@@ -1,0 +1,7 @@
+C:\Users\MINED\Documents\SharpDevelop Projects\ejercicio3hoy\ejercicio3hoy\obj\Debug\ejercicio3hoy.csprojResolveAssemblyReference.cache
+C:\Users\MINED\Documents\SharpDevelop Projects\ejercicio3hoy\ejercicio3hoy\obj\Debug\ejercicio3hoy.MainForm.resources
+C:\Users\MINED\Documents\SharpDevelop Projects\ejercicio3hoy\ejercicio3hoy\obj\Debug\ejercicio3hoy.csproj.GenerateResource.Cache
+C:\Users\MINED\Documents\SharpDevelop Projects\ejercicio3hoy\ejercicio3hoy\bin\Debug\ejercicio3hoy.exe
+C:\Users\MINED\Documents\SharpDevelop Projects\ejercicio3hoy\ejercicio3hoy\bin\Debug\ejercicio3hoy.pdb
+C:\Users\MINED\Documents\SharpDevelop Projects\ejercicio3hoy\ejercicio3hoy\obj\Debug\ejercicio3hoy.exe
+C:\Users\MINED\Documents\SharpDevelop Projects\ejercicio3hoy\ejercicio3hoy\obj\Debug\ejercicio3hoy.pdb

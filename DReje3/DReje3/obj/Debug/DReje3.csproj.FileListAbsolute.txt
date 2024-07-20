@@ -1,0 +1,7 @@
+C:\Users\MINED\Documents\SharpDevelop Projects\DReje3\DReje3\obj\Debug\DReje3.csprojResolveAssemblyReference.cache
+C:\Users\MINED\Documents\SharpDevelop Projects\DReje3\DReje3\obj\Debug\DReje3.MainForm.resources
+C:\Users\MINED\Documents\SharpDevelop Projects\DReje3\DReje3\obj\Debug\DReje3.csproj.GenerateResource.Cache
+C:\Users\MINED\Documents\SharpDevelop Projects\DReje3\DReje3\bin\Debug\DReje3.exe
+C:\Users\MINED\Documents\SharpDevelop Projects\DReje3\DReje3\bin\Debug\DReje3.pdb
+C:\Users\MINED\Documents\SharpDevelop Projects\DReje3\DReje3\obj\Debug\DReje3.exe
+C:\Users\MINED\Documents\SharpDevelop Projects\DReje3\DReje3\obj\Debug\DReje3.pdb
