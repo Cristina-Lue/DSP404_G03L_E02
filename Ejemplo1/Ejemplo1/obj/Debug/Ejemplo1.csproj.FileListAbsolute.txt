@@ -1,0 +1,12 @@
+C:\Users\Javier Turcios\Desktop\Practica1DSP\Ejemplo1\Ejemplo1\bin\Debug\Ejemplo1.exe.config
+C:\Users\Javier Turcios\Desktop\Practica1DSP\Ejemplo1\Ejemplo1\bin\Debug\Ejemplo1.exe
+C:\Users\Javier Turcios\Desktop\Practica1DSP\Ejemplo1\Ejemplo1\bin\Debug\Ejemplo1.pdb
+C:\Users\Javier Turcios\Desktop\Practica1DSP\Ejemplo1\Ejemplo1\obj\Debug\Ejemplo1.csproj.AssemblyReference.cache
+C:\Users\Javier Turcios\Desktop\Practica1DSP\Ejemplo1\Ejemplo1\obj\Debug\Ejemplo1.Form1.resources
+C:\Users\Javier Turcios\Desktop\Practica1DSP\Ejemplo1\Ejemplo1\obj\Debug\Ejemplo1.Properties.Resources.resources
+C:\Users\Javier Turcios\Desktop\Practica1DSP\Ejemplo1\Ejemplo1\obj\Debug\Ejemplo1.csproj.GenerateResource.cache
+C:\Users\Javier Turcios\Desktop\Practica1DSP\Ejemplo1\Ejemplo1\obj\Debug\Ejemplo1.csproj.CoreCompileInputs.cache
+C:\Users\Javier Turcios\Desktop\Practica1DSP\Ejemplo1\Ejemplo1\obj\Debug\Ejemplo1.exe
+C:\Users\Javier Turcios\Desktop\Practica1DSP\Ejemplo1\Ejemplo1\obj\Debug\Ejemplo1.pdb
+C:\Users\Javier Turcios\Desktop\Practica1DSP\Ejemplo1\Ejemplo1\obj\Debug\Ejemplo1.Form2.resources
+C:\Users\Javier Turcios\Desktop\Practica1DSP\Ejemplo1\Ejemplo1\obj\Debug\Ejemplo1.Form3.resources
