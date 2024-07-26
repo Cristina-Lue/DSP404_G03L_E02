@@ -1,0 +1,10 @@
+C:\Users\Javier Turcios\Desktop\Practica2DSP\usodowhile\usodowhile\bin\Debug\usodowhile.exe.config
+C:\Users\Javier Turcios\Desktop\Practica2DSP\usodowhile\usodowhile\bin\Debug\usodowhile.exe
+C:\Users\Javier Turcios\Desktop\Practica2DSP\usodowhile\usodowhile\bin\Debug\usodowhile.pdb
+C:\Users\Javier Turcios\Desktop\Practica2DSP\usodowhile\usodowhile\obj\Debug\usodowhile.csproj.AssemblyReference.cache
+C:\Users\Javier Turcios\Desktop\Practica2DSP\usodowhile\usodowhile\obj\Debug\usodowhile.Form1.resources
+C:\Users\Javier Turcios\Desktop\Practica2DSP\usodowhile\usodowhile\obj\Debug\usodowhile.Properties.Resources.resources
+C:\Users\Javier Turcios\Desktop\Practica2DSP\usodowhile\usodowhile\obj\Debug\usodowhile.csproj.GenerateResource.cache
+C:\Users\Javier Turcios\Desktop\Practica2DSP\usodowhile\usodowhile\obj\Debug\usodowhile.csproj.CoreCompileInputs.cache
+C:\Users\Javier Turcios\Desktop\Practica2DSP\usodowhile\usodowhile\obj\Debug\usodowhile.exe
+C:\Users\Javier Turcios\Desktop\Practica2DSP\usodowhile\usodowhile\obj\Debug\usodowhile.pdb
