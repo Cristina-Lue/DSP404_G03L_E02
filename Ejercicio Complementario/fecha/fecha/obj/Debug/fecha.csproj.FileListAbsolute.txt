@@ -1,0 +1,10 @@
+C:\Users\Javier Turcios\Desktop\Practica1DSP\Ejercicio Complementario\fecha\fecha\bin\Debug\fecha.exe.config
+C:\Users\Javier Turcios\Desktop\Practica1DSP\Ejercicio Complementario\fecha\fecha\bin\Debug\fecha.exe
+C:\Users\Javier Turcios\Desktop\Practica1DSP\Ejercicio Complementario\fecha\fecha\bin\Debug\fecha.pdb
+C:\Users\Javier Turcios\Desktop\Practica1DSP\Ejercicio Complementario\fecha\fecha\obj\Debug\fecha.csproj.AssemblyReference.cache
+C:\Users\Javier Turcios\Desktop\Practica1DSP\Ejercicio Complementario\fecha\fecha\obj\Debug\fecha.Form1.resources
+C:\Users\Javier Turcios\Desktop\Practica1DSP\Ejercicio Complementario\fecha\fecha\obj\Debug\fecha.Properties.Resources.resources
+C:\Users\Javier Turcios\Desktop\Practica1DSP\Ejercicio Complementario\fecha\fecha\obj\Debug\fecha.csproj.GenerateResource.cache
+C:\Users\Javier Turcios\Desktop\Practica1DSP\Ejercicio Complementario\fecha\fecha\obj\Debug\fecha.csproj.CoreCompileInputs.cache
+C:\Users\Javier Turcios\Desktop\Practica1DSP\Ejercicio Complementario\fecha\fecha\obj\Debug\fecha.exe
+C:\Users\Javier Turcios\Desktop\Practica1DSP\Ejercicio Complementario\fecha\fecha\obj\Debug\fecha.pdb

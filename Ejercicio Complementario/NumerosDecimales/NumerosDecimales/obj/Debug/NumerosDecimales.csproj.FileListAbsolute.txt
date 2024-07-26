@@ -1,0 +1,10 @@
+C:\Users\Javier Turcios\Desktop\Practica1DSP\Ejercicio Complementario\NumerosDecimales\NumerosDecimales\bin\Debug\NumerosDecimales.exe.config
+C:\Users\Javier Turcios\Desktop\Practica1DSP\Ejercicio Complementario\NumerosDecimales\NumerosDecimales\bin\Debug\NumerosDecimales.exe
+C:\Users\Javier Turcios\Desktop\Practica1DSP\Ejercicio Complementario\NumerosDecimales\NumerosDecimales\bin\Debug\NumerosDecimales.pdb
+C:\Users\Javier Turcios\Desktop\Practica1DSP\Ejercicio Complementario\NumerosDecimales\NumerosDecimales\obj\Debug\NumerosDecimales.csproj.AssemblyReference.cache
+C:\Users\Javier Turcios\Desktop\Practica1DSP\Ejercicio Complementario\NumerosDecimales\NumerosDecimales\obj\Debug\NumerosDecimales.Form1.resources
+C:\Users\Javier Turcios\Desktop\Practica1DSP\Ejercicio Complementario\NumerosDecimales\NumerosDecimales\obj\Debug\NumerosDecimales.Properties.Resources.resources
+C:\Users\Javier Turcios\Desktop\Practica1DSP\Ejercicio Complementario\NumerosDecimales\NumerosDecimales\obj\Debug\NumerosDecimales.csproj.GenerateResource.cache
+C:\Users\Javier Turcios\Desktop\Practica1DSP\Ejercicio Complementario\NumerosDecimales\NumerosDecimales\obj\Debug\NumerosDecimales.csproj.CoreCompileInputs.cache
+C:\Users\Javier Turcios\Desktop\Practica1DSP\Ejercicio Complementario\NumerosDecimales\NumerosDecimales\obj\Debug\NumerosDecimales.exe
+C:\Users\Javier Turcios\Desktop\Practica1DSP\Ejercicio Complementario\NumerosDecimales\NumerosDecimales\obj\Debug\NumerosDecimales.pdb

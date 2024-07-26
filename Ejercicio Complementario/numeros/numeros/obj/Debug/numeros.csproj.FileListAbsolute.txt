@@ -1,0 +1,10 @@
+C:\Users\Javier Turcios\Desktop\Practica1DSP\Ejercicio Complementario\numeros\numeros\bin\Debug\numeros.exe.config
+C:\Users\Javier Turcios\Desktop\Practica1DSP\Ejercicio Complementario\numeros\numeros\bin\Debug\numeros.exe
+C:\Users\Javier Turcios\Desktop\Practica1DSP\Ejercicio Complementario\numeros\numeros\bin\Debug\numeros.pdb
+C:\Users\Javier Turcios\Desktop\Practica1DSP\Ejercicio Complementario\numeros\numeros\obj\Debug\numeros.csproj.AssemblyReference.cache
+C:\Users\Javier Turcios\Desktop\Practica1DSP\Ejercicio Complementario\numeros\numeros\obj\Debug\numeros.Form1.resources
+C:\Users\Javier Turcios\Desktop\Practica1DSP\Ejercicio Complementario\numeros\numeros\obj\Debug\numeros.Properties.Resources.resources
+C:\Users\Javier Turcios\Desktop\Practica1DSP\Ejercicio Complementario\numeros\numeros\obj\Debug\numeros.csproj.GenerateResource.cache
+C:\Users\Javier Turcios\Desktop\Practica1DSP\Ejercicio Complementario\numeros\numeros\obj\Debug\numeros.csproj.CoreCompileInputs.cache
+C:\Users\Javier Turcios\Desktop\Practica1DSP\Ejercicio Complementario\numeros\numeros\obj\Debug\numeros.exe
+C:\Users\Javier Turcios\Desktop\Practica1DSP\Ejercicio Complementario\numeros\numeros\obj\Debug\numeros.pdb
