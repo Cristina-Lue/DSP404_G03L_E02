@@ -1,0 +1,10 @@
+C:\Users\Javier Turcios\Desktop\Practica2DSP\encriptacion\encriptacion\bin\Debug\encriptacion.exe.config
+C:\Users\Javier Turcios\Desktop\Practica2DSP\encriptacion\encriptacion\bin\Debug\encriptacion.exe
+C:\Users\Javier Turcios\Desktop\Practica2DSP\encriptacion\encriptacion\bin\Debug\encriptacion.pdb
+C:\Users\Javier Turcios\Desktop\Practica2DSP\encriptacion\encriptacion\obj\Debug\encriptacion.csproj.AssemblyReference.cache
+C:\Users\Javier Turcios\Desktop\Practica2DSP\encriptacion\encriptacion\obj\Debug\encriptacion.frmCesar.resources
+C:\Users\Javier Turcios\Desktop\Practica2DSP\encriptacion\encriptacion\obj\Debug\encriptacion.Properties.Resources.resources
+C:\Users\Javier Turcios\Desktop\Practica2DSP\encriptacion\encriptacion\obj\Debug\encriptacion.csproj.GenerateResource.cache
+C:\Users\Javier Turcios\Desktop\Practica2DSP\encriptacion\encriptacion\obj\Debug\encriptacion.csproj.CoreCompileInputs.cache
+C:\Users\Javier Turcios\Desktop\Practica2DSP\encriptacion\encriptacion\obj\Debug\encriptacion.exe
+C:\Users\Javier Turcios\Desktop\Practica2DSP\encriptacion\encriptacion\obj\Debug\encriptacion.pdb
