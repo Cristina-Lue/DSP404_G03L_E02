@@ -1,0 +1,10 @@
+C:\Users\Javier Turcios\Desktop\Practica3DSP\Colecciones\Colecciones\bin\Debug\Colecciones.exe.config
+C:\Users\Javier Turcios\Desktop\Practica3DSP\Colecciones\Colecciones\bin\Debug\Colecciones.exe
+C:\Users\Javier Turcios\Desktop\Practica3DSP\Colecciones\Colecciones\bin\Debug\Colecciones.pdb
+C:\Users\Javier Turcios\Desktop\Practica3DSP\Colecciones\Colecciones\obj\Debug\Colecciones.csproj.AssemblyReference.cache
+C:\Users\Javier Turcios\Desktop\Practica3DSP\Colecciones\Colecciones\obj\Debug\Colecciones.Formulario.resources
+C:\Users\Javier Turcios\Desktop\Practica3DSP\Colecciones\Colecciones\obj\Debug\Colecciones.Properties.Resources.resources
+C:\Users\Javier Turcios\Desktop\Practica3DSP\Colecciones\Colecciones\obj\Debug\Colecciones.csproj.GenerateResource.cache
+C:\Users\Javier Turcios\Desktop\Practica3DSP\Colecciones\Colecciones\obj\Debug\Colecciones.csproj.CoreCompileInputs.cache
+C:\Users\Javier Turcios\Desktop\Practica3DSP\Colecciones\Colecciones\obj\Debug\Colecciones.exe
+C:\Users\Javier Turcios\Desktop\Practica3DSP\Colecciones\Colecciones\obj\Debug\Colecciones.pdb
