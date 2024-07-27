@@ -1,0 +1,10 @@
+C:\Users\Javier Turcios\Desktop\Practica2DSP\Monedas\Monedas\bin\Debug\Monedas.exe.config
+C:\Users\Javier Turcios\Desktop\Practica2DSP\Monedas\Monedas\bin\Debug\Monedas.exe
+C:\Users\Javier Turcios\Desktop\Practica2DSP\Monedas\Monedas\bin\Debug\Monedas.pdb
+C:\Users\Javier Turcios\Desktop\Practica2DSP\Monedas\Monedas\obj\Debug\Monedas.csproj.AssemblyReference.cache
+C:\Users\Javier Turcios\Desktop\Practica2DSP\Monedas\Monedas\obj\Debug\Monedas.Form1.resources
+C:\Users\Javier Turcios\Desktop\Practica2DSP\Monedas\Monedas\obj\Debug\Monedas.Properties.Resources.resources
+C:\Users\Javier Turcios\Desktop\Practica2DSP\Monedas\Monedas\obj\Debug\Monedas.csproj.GenerateResource.cache
+C:\Users\Javier Turcios\Desktop\Practica2DSP\Monedas\Monedas\obj\Debug\Monedas.csproj.CoreCompileInputs.cache
+C:\Users\Javier Turcios\Desktop\Practica2DSP\Monedas\Monedas\obj\Debug\Monedas.exe
+C:\Users\Javier Turcios\Desktop\Practica2DSP\Monedas\Monedas\obj\Debug\Monedas.pdb
