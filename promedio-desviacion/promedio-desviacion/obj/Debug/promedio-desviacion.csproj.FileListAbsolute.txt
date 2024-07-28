@@ -1,0 +1,10 @@
+C:\Users\Javier Turcios\Desktop\Practica3DSP\promedio-desviacion\promedio-desviacion\bin\Debug\promedio-desviacion.exe.config
+C:\Users\Javier Turcios\Desktop\Practica3DSP\promedio-desviacion\promedio-desviacion\bin\Debug\promedio-desviacion.exe
+C:\Users\Javier Turcios\Desktop\Practica3DSP\promedio-desviacion\promedio-desviacion\bin\Debug\promedio-desviacion.pdb
+C:\Users\Javier Turcios\Desktop\Practica3DSP\promedio-desviacion\promedio-desviacion\obj\Debug\promedio-desviacion.csproj.AssemblyReference.cache
+C:\Users\Javier Turcios\Desktop\Practica3DSP\promedio-desviacion\promedio-desviacion\obj\Debug\promedio_desviacion.Form1.resources
+C:\Users\Javier Turcios\Desktop\Practica3DSP\promedio-desviacion\promedio-desviacion\obj\Debug\promedio_desviacion.Properties.Resources.resources
+C:\Users\Javier Turcios\Desktop\Practica3DSP\promedio-desviacion\promedio-desviacion\obj\Debug\promedio-desviacion.csproj.GenerateResource.cache
+C:\Users\Javier Turcios\Desktop\Practica3DSP\promedio-desviacion\promedio-desviacion\obj\Debug\promedio-desviacion.csproj.CoreCompileInputs.cache
+C:\Users\Javier Turcios\Desktop\Practica3DSP\promedio-desviacion\promedio-desviacion\obj\Debug\promedio-desviacion.exe
+C:\Users\Javier Turcios\Desktop\Practica3DSP\promedio-desviacion\promedio-desviacion\obj\Debug\promedio-desviacion.pdb
