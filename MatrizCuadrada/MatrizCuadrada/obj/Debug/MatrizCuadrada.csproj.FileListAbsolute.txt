@@ -1,0 +1,10 @@
+C:\Users\Javier Turcios\Desktop\Practica3DSP\MatrizCuadrada\MatrizCuadrada\bin\Debug\MatrizCuadrada.exe.config
+C:\Users\Javier Turcios\Desktop\Practica3DSP\MatrizCuadrada\MatrizCuadrada\bin\Debug\MatrizCuadrada.exe
+C:\Users\Javier Turcios\Desktop\Practica3DSP\MatrizCuadrada\MatrizCuadrada\bin\Debug\MatrizCuadrada.pdb
+C:\Users\Javier Turcios\Desktop\Practica3DSP\MatrizCuadrada\MatrizCuadrada\obj\Debug\MatrizCuadrada.csproj.AssemblyReference.cache
+C:\Users\Javier Turcios\Desktop\Practica3DSP\MatrizCuadrada\MatrizCuadrada\obj\Debug\MatrizCuadrada.Form1.resources
+C:\Users\Javier Turcios\Desktop\Practica3DSP\MatrizCuadrada\MatrizCuadrada\obj\Debug\MatrizCuadrada.Properties.Resources.resources
+C:\Users\Javier Turcios\Desktop\Practica3DSP\MatrizCuadrada\MatrizCuadrada\obj\Debug\MatrizCuadrada.csproj.GenerateResource.cache
+C:\Users\Javier Turcios\Desktop\Practica3DSP\MatrizCuadrada\MatrizCuadrada\obj\Debug\MatrizCuadrada.csproj.CoreCompileInputs.cache
+C:\Users\Javier Turcios\Desktop\Practica3DSP\MatrizCuadrada\MatrizCuadrada\obj\Debug\MatrizCuadrada.exe
+C:\Users\Javier Turcios\Desktop\Practica3DSP\MatrizCuadrada\MatrizCuadrada\obj\Debug\MatrizCuadrada.pdb
