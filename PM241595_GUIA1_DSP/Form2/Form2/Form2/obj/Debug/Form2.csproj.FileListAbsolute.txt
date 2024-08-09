@@ -1,0 +1,3 @@
+C:\Users\usuario\Documents\SharpDevelop Projects\Form2\Form2\obj\Debug\Form2.csprojResolveAssemblyReference.cache
+C:\Users\usuario\Documents\SharpDevelop Projects\Form2\Form2\obj\Debug\Form2.MainForm.resources
+C:\Users\usuario\Documents\SharpDevelop Projects\Form2\Form2\obj\Debug\Form2.csproj.GenerateResource.Cache

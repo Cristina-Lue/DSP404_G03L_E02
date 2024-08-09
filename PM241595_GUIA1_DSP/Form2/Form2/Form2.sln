@@ -1,0 +1,18 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+# SharpDevelop 4.4
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Form2", "Form2\Form2.csproj", "{F1FD734D-3795-4B82-BDA0-B14E98C3CB7C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F1FD734D-3795-4B82-BDA0-B14E98C3CB7C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F1FD734D-3795-4B82-BDA0-B14E98C3CB7C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F1FD734D-3795-4B82-BDA0-B14E98C3CB7C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F1FD734D-3795-4B82-BDA0-B14E98C3CB7C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+EndGlobal
