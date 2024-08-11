@@ -24,6 +24,8 @@ namespace Desafio_eje2
 		private System.Windows.Forms.Button btnConfirmar;
 		private System.Windows.Forms.Label label2;
 		private System.Windows.Forms.Label label3;
+		private System.Windows.Forms.PictureBox pictureBox1;
+		
 		
 		
 		/// <summary>
@@ -45,8 +47,12 @@ namespace Desafio_eje2
 		/// Do not change the method contents inside the source code editor. The Forms designer might
 		/// not be able to load this method if it was changed manually.
 		/// 
+		/// 
+		/// 
+		
 		private void InitializeComponent()
 		{
+			System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(MainForm));
 			this.button2 = new System.Windows.Forms.Button();
 			this.lblMensaje = new System.Windows.Forms.Label();
 			this.txtCuenta = new System.Windows.Forms.TextBox();
@@ -57,11 +63,13 @@ namespace Desafio_eje2
 			this.btnConfirmar = new System.Windows.Forms.Button();
 			this.label2 = new System.Windows.Forms.Label();
 			this.label3 = new System.Windows.Forms.Label();
+			this.pictureBox1 = new System.Windows.Forms.PictureBox();
+			((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).BeginInit();
 			this.SuspendLayout();
 			// 
 			// button2
 			// 
-			this.button2.Location = new System.Drawing.Point(59, 154);
+			this.button2.Location = new System.Drawing.Point(59, 184);
 			this.button2.Name = "button2";
 			this.button2.Size = new System.Drawing.Size(114, 34);
 			this.button2.TabIndex = 1;
@@ -71,6 +79,7 @@ namespace Desafio_eje2
 			// 
 			// lblMensaje
 			// 
+			this.lblMensaje.BackColor = System.Drawing.Color.Transparent;
 			this.lblMensaje.ForeColor = System.Drawing.SystemColors.ActiveCaptionText;
 			this.lblMensaje.Location = new System.Drawing.Point(291, 31);
 			this.lblMensaje.Name = "lblMensaje";
@@ -102,13 +111,14 @@ namespace Desafio_eje2
 			// comboBox1
 			// 
 			this.comboBox1.FormattingEnabled = true;
-			this.comboBox1.Location = new System.Drawing.Point(87, 109);
+			this.comboBox1.Location = new System.Drawing.Point(91, 147);
 			this.comboBox1.Name = "comboBox1";
-			this.comboBox1.Size = new System.Drawing.Size(149, 21);
+			this.comboBox1.Size = new System.Drawing.Size(134, 21);
 			this.comboBox1.TabIndex = 8;
 			// 
 			// label1
 			// 
+			this.label1.BackColor = System.Drawing.Color.Transparent;
 			this.label1.Location = new System.Drawing.Point(374, 54);
 			this.label1.Name = "label1";
 			this.label1.Size = new System.Drawing.Size(154, 23);
@@ -117,7 +127,7 @@ namespace Desafio_eje2
 			// 
 			// btnConfirmar
 			// 
-			this.btnConfirmar.Location = new System.Drawing.Point(179, 154);
+			this.btnConfirmar.Location = new System.Drawing.Point(179, 184);
 			this.btnConfirmar.Name = "btnConfirmar";
 			this.btnConfirmar.Size = new System.Drawing.Size(114, 34);
 			this.btnConfirmar.TabIndex = 11;
@@ -127,6 +137,7 @@ namespace Desafio_eje2
 			// 
 			// label2
 			// 
+			this.label2.BackColor = System.Drawing.Color.Transparent;
 			this.label2.Location = new System.Drawing.Point(374, 112);
 			this.label2.Name = "label2";
 			this.label2.Size = new System.Drawing.Size(100, 23);
@@ -135,18 +146,31 @@ namespace Desafio_eje2
 			// 
 			// label3
 			// 
+			this.label3.BackColor = System.Drawing.Color.Transparent;
 			this.label3.Location = new System.Drawing.Point(361, 172);
 			this.label3.Name = "label3";
 			this.label3.Size = new System.Drawing.Size(154, 23);
 			this.label3.TabIndex = 13;
 			this.label3.Text = "ingrese la cuenta de destino";
 			// 
+			// pictureBox1
+			// 
+			this.pictureBox1.Image = ((System.Drawing.Image)(resources.GetObject("pictureBox1.Image")));
+			this.pictureBox1.Location = new System.Drawing.Point(91, 12);
+			this.pictureBox1.Name = "pictureBox1";
+			this.pictureBox1.Size = new System.Drawing.Size(134, 120);
+			this.pictureBox1.TabIndex = 14;
+			this.pictureBox1.TabStop = false;
+			this.pictureBox1.Click += new System.EventHandler(this.PictureBox1Click);
+			// 
 			// MainForm
 			// 
 			this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
 			this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
 			this.BackColor = System.Drawing.SystemColors.MenuHighlight;
-			this.ClientSize = new System.Drawing.Size(670, 304);
+			this.BackgroundImage = ((System.Drawing.Image)(resources.GetObject("$this.BackgroundImage")));
+			this.ClientSize = new System.Drawing.Size(670, 282);
+			this.Controls.Add(this.pictureBox1);
 			this.Controls.Add(this.label3);
 			this.Controls.Add(this.label2);
 			this.Controls.Add(this.btnConfirmar);
@@ -160,6 +184,23 @@ namespace Desafio_eje2
 			this.ForeColor = System.Drawing.SystemColors.ActiveCaptionText;
 			this.Name = "MainForm";
 			this.Text = "Desafio_eje2";
+			((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).EndInit();
+			this.ResumeLayout(false);
+			this.PerformLayout();
+
+		this.Controls.Add(this.label2);
+			this.Controls.Add(this.btnConfirmar);
+			this.Controls.Add(this.label1);
+			this.Controls.Add(this.comboBox1);
+			this.Controls.Add(this.txtCuentaDestino);
+			this.Controls.Add(this.txtCantidad);
+			this.Controls.Add(this.txtCuenta);
+			this.Controls.Add(this.lblMensaje);
+			this.Controls.Add(this.button2);
+			this.ForeColor = System.Drawing.SystemColors.ActiveCaptionText;
+			this.Name = "MainForm";
+			this.Text = "Desafio_eje2";
+			((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).EndInit();
 			this.ResumeLayout(false);
 			this.PerformLayout();
 

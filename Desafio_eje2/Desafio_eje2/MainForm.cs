@@ -147,5 +147,9 @@ namespace Desafio_eje2
                 lblMensaje.Text = "La cantidad y el número de cuenta destino deben ser valores numéricos.";
             }
         }
+		void PictureBox1Click(object sender, EventArgs e)
+		{
+	
+		}
     }
 }
