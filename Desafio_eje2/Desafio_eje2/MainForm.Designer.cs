@@ -61,7 +61,7 @@ namespace Desafio_eje2
 			// 
 			// button2
 			// 
-			this.button2.Location = new System.Drawing.Point(28, 22);
+			this.button2.Location = new System.Drawing.Point(59, 154);
 			this.button2.Name = "button2";
 			this.button2.Size = new System.Drawing.Size(114, 34);
 			this.button2.TabIndex = 1;
@@ -71,11 +71,12 @@ namespace Desafio_eje2
 			// 
 			// lblMensaje
 			// 
-			this.lblMensaje.Location = new System.Drawing.Point(340, 9);
+			this.lblMensaje.ForeColor = System.Drawing.SystemColors.ActiveCaptionText;
+			this.lblMensaje.Location = new System.Drawing.Point(291, 31);
 			this.lblMensaje.Name = "lblMensaje";
-			this.lblMensaje.Size = new System.Drawing.Size(323, 23);
+			this.lblMensaje.Size = new System.Drawing.Size(411, 23);
 			this.lblMensaje.TabIndex = 2;
-			this.lblMensaje.Text = "Mensaje";
+			this.lblMensaje.Text = "                                    Antes de iniciar ";
 			// 
 			// txtCuenta
 			// 
@@ -86,7 +87,7 @@ namespace Desafio_eje2
 			// 
 			// txtCantidad
 			// 
-			this.txtCantidad.Location = new System.Drawing.Point(374, 128);
+			this.txtCantidad.Location = new System.Drawing.Point(374, 138);
 			this.txtCantidad.Name = "txtCantidad";
 			this.txtCantidad.Size = new System.Drawing.Size(100, 20);
 			this.txtCantidad.TabIndex = 6;
@@ -101,7 +102,7 @@ namespace Desafio_eje2
 			// comboBox1
 			// 
 			this.comboBox1.FormattingEnabled = true;
-			this.comboBox1.Location = new System.Drawing.Point(49, 127);
+			this.comboBox1.Location = new System.Drawing.Point(87, 109);
 			this.comboBox1.Name = "comboBox1";
 			this.comboBox1.Size = new System.Drawing.Size(149, 21);
 			this.comboBox1.TabIndex = 8;
@@ -110,13 +111,13 @@ namespace Desafio_eje2
 			// 
 			this.label1.Location = new System.Drawing.Point(374, 54);
 			this.label1.Name = "label1";
-			this.label1.Size = new System.Drawing.Size(172, 23);
+			this.label1.Size = new System.Drawing.Size(154, 23);
 			this.label1.TabIndex = 10;
 			this.label1.Text = "ingrese el numero de cuenta";
 			// 
 			// btnConfirmar
 			// 
-			this.btnConfirmar.Location = new System.Drawing.Point(162, 22);
+			this.btnConfirmar.Location = new System.Drawing.Point(179, 154);
 			this.btnConfirmar.Name = "btnConfirmar";
 			this.btnConfirmar.Size = new System.Drawing.Size(114, 34);
 			this.btnConfirmar.TabIndex = 11;
@@ -126,7 +127,7 @@ namespace Desafio_eje2
 			// 
 			// label2
 			// 
-			this.label2.Location = new System.Drawing.Point(374, 103);
+			this.label2.Location = new System.Drawing.Point(374, 112);
 			this.label2.Name = "label2";
 			this.label2.Size = new System.Drawing.Size(100, 23);
 			this.label2.TabIndex = 12;
@@ -134,9 +135,9 @@ namespace Desafio_eje2
 			// 
 			// label3
 			// 
-			this.label3.Location = new System.Drawing.Point(374, 172);
+			this.label3.Location = new System.Drawing.Point(361, 172);
 			this.label3.Name = "label3";
-			this.label3.Size = new System.Drawing.Size(100, 23);
+			this.label3.Size = new System.Drawing.Size(154, 23);
 			this.label3.TabIndex = 13;
 			this.label3.Text = "ingrese la cuenta de destino";
 			// 
@@ -145,7 +146,7 @@ namespace Desafio_eje2
 			this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
 			this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
 			this.BackColor = System.Drawing.SystemColors.MenuHighlight;
-			this.ClientSize = new System.Drawing.Size(665, 304);
+			this.ClientSize = new System.Drawing.Size(670, 304);
 			this.Controls.Add(this.label3);
 			this.Controls.Add(this.label2);
 			this.Controls.Add(this.btnConfirmar);
@@ -156,14 +157,12 @@ namespace Desafio_eje2
 			this.Controls.Add(this.txtCuenta);
 			this.Controls.Add(this.lblMensaje);
 			this.Controls.Add(this.button2);
+			this.ForeColor = System.Drawing.SystemColors.ActiveCaptionText;
 			this.Name = "MainForm";
 			this.Text = "Desafio_eje2";
 			this.ResumeLayout(false);
 			this.PerformLayout();
 
-		// 
-			
-		
+		}
 		}
 	}
-}  

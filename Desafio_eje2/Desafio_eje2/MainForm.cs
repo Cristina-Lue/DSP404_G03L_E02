@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Windows.Forms;
+using System.Threading;
 
 namespace Desafio_eje2
 {
@@ -59,7 +60,7 @@ namespace Desafio_eje2
                 switch (opcion)
                 {
                     case 1:
-                		lblMensaje.Text = "El saldo actual de la cuenta 	"+	cuenta +"	es de	"+		saldos[indice];
+                		lblMensaje.Text = "El saldo actual de la cuenta 	"+	cuenta +" es de	"+		saldos[indice];
                         break;
                     case 2:
                         RetirarFondos(indice);
@@ -72,7 +73,9 @@ namespace Desafio_eje2
                         break;
                     case 5:
                         lblMensaje.Text = "Gracias por usar el cajero automático.";
-                        Application.Exit();
+                        Application.DoEvents(); // Permite que el mensaje se actualice antes de la pausa
+                Thread.Sleep(2000); // Espera 2 segundos
+                Application.Exit();
                         break;
                     default:
                         lblMensaje.Text = "Opción no válida.";
