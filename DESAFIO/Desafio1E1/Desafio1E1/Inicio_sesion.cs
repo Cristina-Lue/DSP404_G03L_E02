@@ -54,7 +54,7 @@ namespace Desafio1E1
             }
             else
             {
-                MessageBox.Show("Usuario o contraseña incorrectos.");
+                MessageBox.Show("Usuario o contraseña incorrectos.");//Contraseña es "admin" y usuario es "admin"
             }
 
         }
