@@ -20,10 +20,10 @@ namespace Desafio1E1
 
         private void timer1_Tick(object sender, EventArgs e)
         {
-            timer1.Stop();
-            this.Hide();
-            Inicio_sesion inicio = new Inicio_sesion();
-            inicio.Show();
+            timer1.Stop();//detiene el timer a los 15 segundos
+            this.Hide();//Cierra la pestaña
+            Inicio_sesion inicio = new Inicio_sesion();//Llama el sifuiente form
+            inicio.Show();//inicia la otra pantalla
         }
     }
 }
