@@ -1,0 +1,10 @@
+C:\Users\DELL\source\repos\Guia2-ejercicio2\Guia2-ejercicio2\bin\Debug\Guia2-ejercicio2.exe.config
+C:\Users\DELL\source\repos\Guia2-ejercicio2\Guia2-ejercicio2\bin\Debug\Guia2-ejercicio2.exe
+C:\Users\DELL\source\repos\Guia2-ejercicio2\Guia2-ejercicio2\bin\Debug\Guia2-ejercicio2.pdb
+C:\Users\DELL\source\repos\Guia2-ejercicio2\Guia2-ejercicio2\obj\Debug\Guia2-ejercicio2.csproj.AssemblyReference.cache
+C:\Users\DELL\source\repos\Guia2-ejercicio2\Guia2-ejercicio2\obj\Debug\Guia2_ejercicio2.frmCesar.resources
+C:\Users\DELL\source\repos\Guia2-ejercicio2\Guia2-ejercicio2\obj\Debug\Guia2_ejercicio2.Properties.Resources.resources
+C:\Users\DELL\source\repos\Guia2-ejercicio2\Guia2-ejercicio2\obj\Debug\Guia2-ejercicio2.csproj.GenerateResource.cache
+C:\Users\DELL\source\repos\Guia2-ejercicio2\Guia2-ejercicio2\obj\Debug\Guia2-ejercicio2.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\Guia2-ejercicio2\Guia2-ejercicio2\obj\Debug\Guia2-ejercicio2.exe
+C:\Users\DELL\source\repos\Guia2-ejercicio2\Guia2-ejercicio2\obj\Debug\Guia2-ejercicio2.pdb
