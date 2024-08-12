@@ -1,0 +1,10 @@
+C:\Users\DELL\source\repos\Ejercicio_3\Ejercicio_3\bin\Debug\Ejercicio_3.exe.config
+C:\Users\DELL\source\repos\Ejercicio_3\Ejercicio_3\bin\Debug\Ejercicio_3.exe
+C:\Users\DELL\source\repos\Ejercicio_3\Ejercicio_3\bin\Debug\Ejercicio_3.pdb
+C:\Users\DELL\source\repos\Ejercicio_3\Ejercicio_3\obj\Debug\Ejercicio_3.csproj.AssemblyReference.cache
+C:\Users\DELL\source\repos\Ejercicio_3\Ejercicio_3\obj\Debug\Ejercicio_3.Form1.resources
+C:\Users\DELL\source\repos\Ejercicio_3\Ejercicio_3\obj\Debug\Ejercicio_3.Properties.Resources.resources
+C:\Users\DELL\source\repos\Ejercicio_3\Ejercicio_3\obj\Debug\Ejercicio_3.csproj.GenerateResource.cache
+C:\Users\DELL\source\repos\Ejercicio_3\Ejercicio_3\obj\Debug\Ejercicio_3.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\Ejercicio_3\Ejercicio_3\obj\Debug\Ejercicio_3.exe
+C:\Users\DELL\source\repos\Ejercicio_3\Ejercicio_3\obj\Debug\Ejercicio_3.pdb
