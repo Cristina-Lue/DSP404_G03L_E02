@@ -1,0 +1,16 @@
+C:\Users\MINED\Documents\SharpDevelop Projects\Eje3\Eje3\obj\Debug\Eje3.csprojResolveAssemblyReference.cache
+C:\Users\MINED\Documents\SharpDevelop Projects\Eje3\Eje3\obj\Debug\Eje3.MainForm.resources
+C:\Users\MINED\Documents\SharpDevelop Projects\Eje3\Eje3\obj\Debug\Eje3.csproj.GenerateResource.Cache
+C:\Users\MINED\Documents\SharpDevelop Projects\Eje3\Eje3\bin\Debug\Eje3.exe.config
+C:\Users\MINED\Documents\SharpDevelop Projects\Eje3\Eje3\bin\Debug\Eje3.exe
+C:\Users\MINED\Documents\SharpDevelop Projects\Eje3\Eje3\bin\Debug\Eje3.pdb
+C:\Users\MINED\Documents\SharpDevelop Projects\Eje3\Eje3\obj\Debug\Eje3.exe
+C:\Users\MINED\Documents\SharpDevelop Projects\Eje3\Eje3\obj\Debug\Eje3.pdb
+C:\Users\MINED\Desktop\guia4_dsp_eje1\Eje3\Eje3\bin\Debug\Eje3.exe.config
+C:\Users\MINED\Desktop\guia4_dsp_eje1\Eje3\Eje3\bin\Debug\Eje3.exe
+C:\Users\MINED\Desktop\guia4_dsp_eje1\Eje3\Eje3\bin\Debug\Eje3.pdb
+C:\Users\MINED\Desktop\guia4_dsp_eje1\Eje3\Eje3\obj\Debug\Eje3.csprojResolveAssemblyReference.cache
+C:\Users\MINED\Desktop\guia4_dsp_eje1\Eje3\Eje3\obj\Debug\Eje3.MainForm.resources
+C:\Users\MINED\Desktop\guia4_dsp_eje1\Eje3\Eje3\obj\Debug\Eje3.csproj.GenerateResource.Cache
+C:\Users\MINED\Desktop\guia4_dsp_eje1\Eje3\Eje3\obj\Debug\Eje3.exe
+C:\Users\MINED\Desktop\guia4_dsp_eje1\Eje3\Eje3\obj\Debug\Eje3.pdb

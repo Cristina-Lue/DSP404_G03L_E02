@@ -1,0 +1,9 @@
+C:\Users\MINED\Documents\SharpDevelop Projects\Eje4\Eje4\obj\Debug\Eje4.csprojResolveAssemblyReference.cache
+C:\Users\MINED\Documents\SharpDevelop Projects\Eje4\Eje4\obj\Debug\Eje4.MainForm.resources
+C:\Users\MINED\Documents\SharpDevelop Projects\Eje4\Eje4\obj\Debug\Eje4.csproj.GenerateResource.Cache
+C:\Users\MINED\Documents\SharpDevelop Projects\Eje4\Eje4\obj\Debug\Eje4.Form2.resources
+C:\Users\MINED\Documents\SharpDevelop Projects\Eje4\Eje4\bin\Debug\Eje4.exe.config
+C:\Users\MINED\Documents\SharpDevelop Projects\Eje4\Eje4\bin\Debug\Eje4.exe
+C:\Users\MINED\Documents\SharpDevelop Projects\Eje4\Eje4\bin\Debug\Eje4.pdb
+C:\Users\MINED\Documents\SharpDevelop Projects\Eje4\Eje4\obj\Debug\Eje4.exe
+C:\Users\MINED\Documents\SharpDevelop Projects\Eje4\Eje4\obj\Debug\Eje4.pdb

@@ -1,0 +1,8 @@
+C:\Users\MINED\Documents\SharpDevelop Projects\dsp_guia4_eje1\dsp_guia4_eje1\bin\Debug\dsp_guia4_eje1.exe.config
+C:\Users\MINED\Documents\SharpDevelop Projects\dsp_guia4_eje1\dsp_guia4_eje1\bin\Debug\dsp_guia4_eje1.exe
+C:\Users\MINED\Documents\SharpDevelop Projects\dsp_guia4_eje1\dsp_guia4_eje1\bin\Debug\dsp_guia4_eje1.pdb
+C:\Users\MINED\Documents\SharpDevelop Projects\dsp_guia4_eje1\dsp_guia4_eje1\obj\Debug\dsp_guia4_eje1.csprojResolveAssemblyReference.cache
+C:\Users\MINED\Documents\SharpDevelop Projects\dsp_guia4_eje1\dsp_guia4_eje1\obj\Debug\dsp_guia4_eje1.exe
+C:\Users\MINED\Documents\SharpDevelop Projects\dsp_guia4_eje1\dsp_guia4_eje1\obj\Debug\dsp_guia4_eje1.pdb
+C:\Users\MINED\Documents\SharpDevelop Projects\dsp_guia4_eje1\dsp_guia4_eje1\obj\Debug\dsp_guia4_eje1.MainForm.resources
+C:\Users\MINED\Documents\SharpDevelop Projects\dsp_guia4_eje1\dsp_guia4_eje1\obj\Debug\dsp_guia4_eje1.csproj.GenerateResource.Cache
