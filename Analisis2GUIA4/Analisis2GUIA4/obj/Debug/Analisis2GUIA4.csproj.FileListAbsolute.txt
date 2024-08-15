@@ -1,0 +1,8 @@
+C:\Users\MINED\Documents\SharpDevelop Projects\Analisis2GUIA4\Analisis2GUIA4\obj\Debug\Analisis2GUIA4.csprojResolveAssemblyReference.cache
+C:\Users\MINED\Documents\SharpDevelop Projects\Analisis2GUIA4\Analisis2GUIA4\obj\Debug\Analisis2GUIA4.MainForm.resources
+C:\Users\MINED\Documents\SharpDevelop Projects\Analisis2GUIA4\Analisis2GUIA4\obj\Debug\Analisis2GUIA4.csproj.GenerateResource.Cache
+C:\Users\MINED\Documents\SharpDevelop Projects\Analisis2GUIA4\Analisis2GUIA4\bin\Debug\Analisis2GUIA4.exe.config
+C:\Users\MINED\Documents\SharpDevelop Projects\Analisis2GUIA4\Analisis2GUIA4\bin\Debug\Analisis2GUIA4.exe
+C:\Users\MINED\Documents\SharpDevelop Projects\Analisis2GUIA4\Analisis2GUIA4\bin\Debug\Analisis2GUIA4.pdb
+C:\Users\MINED\Documents\SharpDevelop Projects\Analisis2GUIA4\Analisis2GUIA4\obj\Debug\Analisis2GUIA4.exe
+C:\Users\MINED\Documents\SharpDevelop Projects\Analisis2GUIA4\Analisis2GUIA4\obj\Debug\Analisis2GUIA4.pdb
