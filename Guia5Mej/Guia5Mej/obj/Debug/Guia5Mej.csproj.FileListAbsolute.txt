@@ -1,0 +1,8 @@
+C:\Users\MINED\Documents\SharpDevelop Projects\Guia5Mej\Guia5Mej\obj\Debug\Guia5Mej.csprojResolveAssemblyReference.cache
+C:\Users\MINED\Documents\SharpDevelop Projects\Guia5Mej\Guia5Mej\bin\Debug\Guia5Mej.exe.config
+C:\Users\MINED\Documents\SharpDevelop Projects\Guia5Mej\Guia5Mej\bin\Debug\Guia5Mej.exe
+C:\Users\MINED\Documents\SharpDevelop Projects\Guia5Mej\Guia5Mej\bin\Debug\Guia5Mej.pdb
+C:\Users\MINED\Documents\SharpDevelop Projects\Guia5Mej\Guia5Mej\obj\Debug\Guia5Mej.exe
+C:\Users\MINED\Documents\SharpDevelop Projects\Guia5Mej\Guia5Mej\obj\Debug\Guia5Mej.pdb
+C:\Users\MINED\Documents\SharpDevelop Projects\Guia5Mej\Guia5Mej\obj\Debug\Guia5Mej.MainForm.resources
+C:\Users\MINED\Documents\SharpDevelop Projects\Guia5Mej\Guia5Mej\obj\Debug\Guia5Mej.csproj.GenerateResource.Cache
