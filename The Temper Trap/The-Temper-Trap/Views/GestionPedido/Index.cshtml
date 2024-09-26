@@ -1,0 +1,85 @@
+﻿
+@{
+    ViewData["Title"] = "Index";
+}
+
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>@ViewData["Title"]</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f9f9f9;
+            margin: 0;
+            padding: 0;
+        }
+        .container {
+            max-width: 800px;
+            margin: auto;
+            padding: 20px;
+            text-align: center;
+        }
+        header {
+            background-color: #4CAF50;
+            color: white;
+            padding: 10px 0;
+        }
+        .welcome {
+            margin: 20px 0;
+        }
+        .cooking-image {
+            width: 100%;
+            height: auto;
+            border-radius: 8px;
+            margin-top: 10px;
+        }
+        .options {
+            margin-top: 30px;
+        }
+        .options ul {
+            list-style-type: none;
+            padding: 0;
+        }
+        .options li {
+            margin: 10px 0;
+        }
+        .options a {
+            text-decoration: none;
+            color: #007BFF;
+            font-weight: bold;
+        }
+        .options a:hover {
+            text-decoration: underline;
+        }
+        footer {
+            margin-top: 20px;
+            font-size: 0.9em;
+            color: #777;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <header>
+            <h1>Bienvenido empleado</h1> <!-- Mensaje de bienvenida -->
+        </header>
+        <section class="welcome">
+            <p>Estamos encantados de tenerte aquí. Explora las opciones a continuación:</p>
+            <img src="https://th.bing.com/th/id/R.1c00f7c519c27138c0fbc4d34374142c?rik=1Y8pVUrH7AbxqA&pid=ImgRaw&r=0" alt="Cocina" class="cooking-image"> 
+        </section>
+        <section class="options">
+            <h2>Opciones</h2>
+            <ul>
+                <li><a href="/Controllers/GestionPedidoController">Ver Pedido</a></li>
+                <li><a href="InfoCleinte">Ver Informacion del cliente</a></li>
+            </ul>
+        </section>
+        <footer>
+            <p>&copy; 2024 The temper Trap</p>
+        </footer>
+    </div>
+</body>
+</html>

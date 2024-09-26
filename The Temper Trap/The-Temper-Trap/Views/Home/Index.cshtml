@@ -1,0 +1,123 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>@ViewData["Title"]</title>
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
+    <style>
+        body {
+           background-color:cadetblue
+            background-size: cover;
+            color: #000000;
+        }
+
+        .login-container, .register-container {
+            max-width: 400px;
+            margin: 50px auto;
+            padding: 20px;
+            background: rgba(255, 255, 255, 0.9);
+            border-radius: 8px;
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+        }
+
+            .login-container h1, .register-container h1 {
+                font-size: 24px;
+                margin-bottom: 20px;
+                color: #007bff;
+            }
+
+            .login-container .btn-primary, .register-container .btn-primary {
+                background-color: #007bff;
+                border-color: #007bff;
+            }
+
+                .login-container .btn-primary:hover, .register-container .btn-primary:hover {
+                    background-color: #0056b3;
+                    border-color: #004085;
+                }
+
+        .text-center h1 {
+            color: #ffffff;
+            text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
+            font-size: 36px;
+            font-weight: bold;
+        }
+
+        .text-center p {
+            color: #ffffff;
+            font-size: 18px;
+            text-shadow: 1px 1px 3px rgba(0, 0, 0, 0.5);
+        }
+
+        .footer {
+            position: fixed;
+            bottom: 0;
+            width: 100%;
+            text-align: center;
+            color: #000000;
+            background-color: #ffffff;
+            padding: 10px 0;
+            font-size: 14px;
+        }
+
+        .alert-danger {
+            margin-top: 20px;
+        }
+    </style>
+</head>
+<body>
+    <div class="text-center">
+        <h1 class="display-4">Bienvenidos a The Temper Trap</h1>
+        <p class="lead">Inicie sesión o regístrese para acceder al sistema:</p>
+    </div>
+
+    <!-- Formulario de Inicio de Sesión -->
+    <div class="login-container">
+        <h1>Iniciar Sesión</h1>
+        <form asp-action="Index" method="post">
+            <div class="form-group">
+                <label for="numeroUsuario">Número de Usuario</label>
+                <input type="text" id="numeroUsuario" name="numeroUsuario" class="form-control" placeholder="Ingrese su número de usuario" required />
+            </div>
+            <div class="form-group">
+                <label for="contrasena">Contraseña</label>
+                <input type="password" id="contrasena" name="contrasena" class="form-control" placeholder="Ingrese su contraseña" required />
+            </div>
+            <div class="form-group">
+                <label for="tipoUsuario">Tipo de Usuario</label>
+                <select id="tipoUsuario" name="tipoUsuario" class="form-control" required>
+                    <option value="">Seleccione un tipo de usuario</option>
+                    <option value="Cliente">Cliente</option>
+                    <option value="Empleado">Empleado</option>
+                </select>
+            </div>
+            <button type="submit" class="btn btn-primary btn-block">Iniciar Sesión</button>
+        </form>
+
+        @if (ViewBag.Error != null)
+        {
+            <div class="alert alert-danger mt-3">
+                @ViewBag.Error
+            </div>
+        }
+
+        <!-- Botón para redirigir al registro -->
+        <div class="text-center mt-3">
+            <a href="@Url.Action("Registrarse", "Empleado")" class="btn btn-link">¿No tienes cuenta? Regístrate</a>
+        </div>
+    </div>
+
+    <!-- Pie de página -->
+    <footer class="footer">
+        &copy; 2024 - Grupo2
+    </footer>
+
+    <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
+</body>
+</html>
