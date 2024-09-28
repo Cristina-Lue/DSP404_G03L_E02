@@ -1,0 +1,10 @@
+C:\Users\aliss\Downloads\GUIA4\ejercicio3_Guia4\ejercicio3_Guia4\bin\Debug\ejercicio3_Guia4.exe.config
+C:\Users\aliss\Downloads\GUIA4\ejercicio3_Guia4\ejercicio3_Guia4\bin\Debug\ejercicio3_Guia4.exe
+C:\Users\aliss\Downloads\GUIA4\ejercicio3_Guia4\ejercicio3_Guia4\bin\Debug\ejercicio3_Guia4.pdb
+C:\Users\aliss\Downloads\GUIA4\ejercicio3_Guia4\ejercicio3_Guia4\obj\Debug\ejercicio3_Guia4.csproj.AssemblyReference.cache
+C:\Users\aliss\Downloads\GUIA4\ejercicio3_Guia4\ejercicio3_Guia4\obj\Debug\ejercicio3_Guia4.Form1.resources
+C:\Users\aliss\Downloads\GUIA4\ejercicio3_Guia4\ejercicio3_Guia4\obj\Debug\ejercicio3_Guia4.Properties.Resources.resources
+C:\Users\aliss\Downloads\GUIA4\ejercicio3_Guia4\ejercicio3_Guia4\obj\Debug\ejercicio3_Guia4.csproj.GenerateResource.cache
+C:\Users\aliss\Downloads\GUIA4\ejercicio3_Guia4\ejercicio3_Guia4\obj\Debug\ejercicio3_Guia4.csproj.CoreCompileInputs.cache
+C:\Users\aliss\Downloads\GUIA4\ejercicio3_Guia4\ejercicio3_Guia4\obj\Debug\ejercicio3_Guia4.exe
+C:\Users\aliss\Downloads\GUIA4\ejercicio3_Guia4\ejercicio3_Guia4\obj\Debug\ejercicio3_Guia4.pdb
