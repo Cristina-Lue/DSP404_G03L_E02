@@ -1,0 +1,150 @@
+C:\Users\usuario\Documents\dsp lab\SitioWebdeSUCARNET\SitioWebdeSUCARNET\bin\SitioWebdeSUCARNET.dll.config
+C:\Users\usuario\Documents\dsp lab\SitioWebdeSUCARNET\SitioWebdeSUCARNET\bin\SitioWebdeSUCARNET.dll
+C:\Users\usuario\Documents\dsp lab\SitioWebdeSUCARNET\SitioWebdeSUCARNET\bin\SitioWebdeSUCARNET.pdb
+C:\Users\usuario\Documents\dsp lab\SitioWebdeSUCARNET\SitioWebdeSUCARNET\bin\roslyn\csc.exe
+C:\Users\usuario\Documents\dsp lab\SitioWebdeSUCARNET\SitioWebdeSUCARNET\bin\roslyn\csc.exe.config
+C:\Users\usuario\Documents\dsp lab\SitioWebdeSUCARNET\SitioWebdeSUCARNET\bin\roslyn\csc.rsp
+C:\Users\usuario\Documents\dsp lab\SitioWebdeSUCARNET\SitioWebdeSUCARNET\bin\roslyn\csi.exe
+C:\Users\usuario\Documents\dsp lab\SitioWebdeSUCARNET\SitioWebdeSUCARNET\bin\roslyn\csi.exe.config
+C:\Users\usuario\Documents\dsp lab\SitioWebdeSUCARNET\SitioWebdeSUCARNET\bin\roslyn\csi.rsp
+C:\Users\usuario\Documents\dsp lab\SitioWebdeSUCARNET\SitioWebdeSUCARNET\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\usuario\Documents\dsp lab\SitioWebdeSUCARNET\SitioWebdeSUCARNET\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\usuario\Documents\dsp lab\SitioWebdeSUCARNET\SitioWebdeSUCARNET\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\usuario\Documents\dsp lab\SitioWebdeSUCARNET\SitioWebdeSUCARNET\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\usuario\Documents\dsp lab\SitioWebdeSUCARNET\SitioWebdeSUCARNET\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\usuario\Documents\dsp lab\SitioWebdeSUCARNET\SitioWebdeSUCARNET\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\usuario\Documents\dsp lab\SitioWebdeSUCARNET\SitioWebdeSUCARNET\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\usuario\Documents\dsp lab\SitioWebdeSUCARNET\SitioWebdeSUCARNET\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\usuario\Documents\dsp lab\SitioWebdeSUCARNET\SitioWebdeSUCARNET\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\usuario\Documents\dsp lab\SitioWebdeSUCARNET\SitioWebdeSUCARNET\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\usuario\Documents\dsp lab\SitioWebdeSUCARNET\SitioWebdeSUCARNET\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\usuario\Documents\dsp lab\SitioWebdeSUCARNET\SitioWebdeSUCARNET\bin\roslyn\System.AppContext.dll
+C:\Users\usuario\Documents\dsp lab\SitioWebdeSUCARNET\SitioWebdeSUCARNET\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\usuario\Documents\dsp lab\SitioWebdeSUCARNET\SitioWebdeSUCARNET\bin\roslyn\System.Console.dll
+C:\Users\usuario\Documents\dsp lab\SitioWebdeSUCARNET\SitioWebdeSUCARNET\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\usuario\Documents\dsp lab\SitioWebdeSUCARNET\SitioWebdeSUCARNET\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\usuario\Documents\dsp lab\SitioWebdeSUCARNET\SitioWebdeSUCARNET\bin\roslyn\System.IO.Compression.dll
+C:\Users\usuario\Documents\dsp lab\SitioWebdeSUCARNET\SitioWebdeSUCARNET\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\usuario\Documents\dsp lab\SitioWebdeSUCARNET\SitioWebdeSUCARNET\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\usuario\Documents\dsp lab\SitioWebdeSUCARNET\SitioWebdeSUCARNET\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\usuario\Documents\dsp lab\SitioWebdeSUCARNET\SitioWebdeSUCARNET\bin\roslyn\System.IO.Pipes.dll
+C:\Users\usuario\Documents\dsp lab\SitioWebdeSUCARNET\SitioWebdeSUCARNET\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\usuario\Documents\dsp lab\SitioWebdeSUCARNET\SitioWebdeSUCARNET\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\usuario\Documents\dsp lab\SitioWebdeSUCARNET\SitioWebdeSUCARNET\bin\roslyn\System.Security.Claims.dll
+C:\Users\usuario\Documents\dsp lab\SitioWebdeSUCARNET\SitioWebdeSUCARNET\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\usuario\Documents\dsp lab\SitioWebdeSUCARNET\SitioWebdeSUCARNET\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\usuario\Documents\dsp lab\SitioWebdeSUCARNET\SitioWebdeSUCARNET\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\usuario\Documents\dsp lab\SitioWebdeSUCARNET\SitioWebdeSUCARNET\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\usuario\Documents\dsp lab\SitioWebdeSUCARNET\SitioWebdeSUCARNET\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\usuario\Documents\dsp lab\SitioWebdeSUCARNET\SitioWebdeSUCARNET\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\usuario\Documents\dsp lab\SitioWebdeSUCARNET\SitioWebdeSUCARNET\bin\roslyn\System.ValueTuple.dll
+C:\Users\usuario\Documents\dsp lab\SitioWebdeSUCARNET\SitioWebdeSUCARNET\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\usuario\Documents\dsp lab\SitioWebdeSUCARNET\SitioWebdeSUCARNET\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\usuario\Documents\dsp lab\SitioWebdeSUCARNET\SitioWebdeSUCARNET\bin\roslyn\System.Xml.XPath.dll
+C:\Users\usuario\Documents\dsp lab\SitioWebdeSUCARNET\SitioWebdeSUCARNET\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\usuario\Documents\dsp lab\SitioWebdeSUCARNET\SitioWebdeSUCARNET\bin\roslyn\vbc.exe
+C:\Users\usuario\Documents\dsp lab\SitioWebdeSUCARNET\SitioWebdeSUCARNET\bin\roslyn\vbc.exe.config
+C:\Users\usuario\Documents\dsp lab\SitioWebdeSUCARNET\SitioWebdeSUCARNET\bin\roslyn\vbc.rsp
+C:\Users\usuario\Documents\dsp lab\SitioWebdeSUCARNET\SitioWebdeSUCARNET\bin\roslyn\VBCSCompiler.exe
+C:\Users\usuario\Documents\dsp lab\SitioWebdeSUCARNET\SitioWebdeSUCARNET\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\usuario\Documents\dsp lab\SitioWebdeSUCARNET\SitioWebdeSUCARNET\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\usuario\Documents\dsp lab\SitioWebdeSUCARNET\SitioWebdeSUCARNET\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\usuario\Documents\dsp lab\SitioWebdeSUCARNET\SitioWebdeSUCARNET\bin\System.Web.Helpers.dll
+C:\Users\usuario\Documents\dsp lab\SitioWebdeSUCARNET\SitioWebdeSUCARNET\bin\System.Web.Mvc.dll
+C:\Users\usuario\Documents\dsp lab\SitioWebdeSUCARNET\SitioWebdeSUCARNET\bin\System.Web.Razor.dll
+C:\Users\usuario\Documents\dsp lab\SitioWebdeSUCARNET\SitioWebdeSUCARNET\bin\System.Web.Webpages.Deployment.dll
+C:\Users\usuario\Documents\dsp lab\SitioWebdeSUCARNET\SitioWebdeSUCARNET\bin\System.Web.Webpages.dll
+C:\Users\usuario\Documents\dsp lab\SitioWebdeSUCARNET\SitioWebdeSUCARNET\bin\System.Web.Webpages.Razor.dll
+C:\Users\usuario\Documents\dsp lab\SitioWebdeSUCARNET\SitioWebdeSUCARNET\bin\System.Web.Razor.xml
+C:\Users\usuario\Documents\dsp lab\SitioWebdeSUCARNET\SitioWebdeSUCARNET\bin\System.Web.Webpages.xml
+C:\Users\usuario\Documents\dsp lab\SitioWebdeSUCARNET\SitioWebdeSUCARNET\bin\System.Web.Webpages.Deployment.xml
+C:\Users\usuario\Documents\dsp lab\SitioWebdeSUCARNET\SitioWebdeSUCARNET\bin\System.Web.Webpages.Razor.xml
+C:\Users\usuario\Documents\dsp lab\SitioWebdeSUCARNET\SitioWebdeSUCARNET\bin\System.Web.Helpers.xml
+C:\Users\usuario\Documents\dsp lab\SitioWebdeSUCARNET\SitioWebdeSUCARNET\bin\System.Web.Mvc.xml
+C:\Users\usuario\Documents\dsp lab\SitioWebdeSUCARNET\SitioWebdeSUCARNET\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\usuario\Documents\dsp lab\SitioWebdeSUCARNET\SitioWebdeSUCARNET\bin\es\System.Web.Razor.resources.dll
+C:\Users\usuario\Documents\dsp lab\SitioWebdeSUCARNET\SitioWebdeSUCARNET\bin\es\System.Web.Webpages.resources.dll
+C:\Users\usuario\Documents\dsp lab\SitioWebdeSUCARNET\SitioWebdeSUCARNET\bin\es\System.Web.Webpages.Deployment.resources.dll
+C:\Users\usuario\Documents\dsp lab\SitioWebdeSUCARNET\SitioWebdeSUCARNET\bin\es\System.Web.Webpages.Razor.resources.dll
+C:\Users\usuario\Documents\dsp lab\SitioWebdeSUCARNET\SitioWebdeSUCARNET\bin\es\System.Web.Helpers.resources.dll
+C:\Users\usuario\Documents\dsp lab\SitioWebdeSUCARNET\SitioWebdeSUCARNET\bin\es\System.Web.Mvc.resources.dll
+C:\Users\usuario\Documents\dsp lab\SitioWebdeSUCARNET\SitioWebdeSUCARNET\obj\Debug\SitioWebdeSUCARNET.csprojAssemblyReference.cache
+C:\Users\usuario\Documents\dsp lab\SitioWebdeSUCARNET\SitioWebdeSUCARNET\obj\Debug\SitioWebdeSUCARNET.csproj.CoreCompileInputs.cache
+C:\Users\usuario\Documents\dsp lab\SitioWebdeSUCARNET\SitioWebdeSUCARNET\obj\Debug\SitioWebdeSUCARNET.csproj.CopyComplete
+C:\Users\usuario\Documents\dsp lab\SitioWebdeSUCARNET\SitioWebdeSUCARNET\obj\Debug\SitioWebdeSUCARNET.dll
+C:\Users\usuario\Documents\dsp lab\SitioWebdeSUCARNET\SitioWebdeSUCARNET\obj\Debug\SitioWebdeSUCARNET.pdb
+C:\Users\aliss\Downloads\SitioWebdeSUCARNET\SitioWebdeSUCARNET\bin\SitioWebdeSUCARNET.dll.config
+C:\Users\aliss\Downloads\SitioWebdeSUCARNET\SitioWebdeSUCARNET\bin\SitioWebdeSUCARNET.dll
+C:\Users\aliss\Downloads\SitioWebdeSUCARNET\SitioWebdeSUCARNET\bin\SitioWebdeSUCARNET.pdb
+C:\Users\aliss\Downloads\SitioWebdeSUCARNET\SitioWebdeSUCARNET\bin\roslyn\csc.exe
+C:\Users\aliss\Downloads\SitioWebdeSUCARNET\SitioWebdeSUCARNET\bin\roslyn\csc.exe.config
+C:\Users\aliss\Downloads\SitioWebdeSUCARNET\SitioWebdeSUCARNET\bin\roslyn\csc.rsp
+C:\Users\aliss\Downloads\SitioWebdeSUCARNET\SitioWebdeSUCARNET\bin\roslyn\csi.exe
+C:\Users\aliss\Downloads\SitioWebdeSUCARNET\SitioWebdeSUCARNET\bin\roslyn\csi.exe.config
+C:\Users\aliss\Downloads\SitioWebdeSUCARNET\SitioWebdeSUCARNET\bin\roslyn\csi.rsp
+C:\Users\aliss\Downloads\SitioWebdeSUCARNET\SitioWebdeSUCARNET\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\aliss\Downloads\SitioWebdeSUCARNET\SitioWebdeSUCARNET\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\aliss\Downloads\SitioWebdeSUCARNET\SitioWebdeSUCARNET\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\aliss\Downloads\SitioWebdeSUCARNET\SitioWebdeSUCARNET\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\aliss\Downloads\SitioWebdeSUCARNET\SitioWebdeSUCARNET\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\aliss\Downloads\SitioWebdeSUCARNET\SitioWebdeSUCARNET\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\aliss\Downloads\SitioWebdeSUCARNET\SitioWebdeSUCARNET\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\aliss\Downloads\SitioWebdeSUCARNET\SitioWebdeSUCARNET\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\aliss\Downloads\SitioWebdeSUCARNET\SitioWebdeSUCARNET\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\aliss\Downloads\SitioWebdeSUCARNET\SitioWebdeSUCARNET\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\aliss\Downloads\SitioWebdeSUCARNET\SitioWebdeSUCARNET\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\aliss\Downloads\SitioWebdeSUCARNET\SitioWebdeSUCARNET\bin\roslyn\System.AppContext.dll
+C:\Users\aliss\Downloads\SitioWebdeSUCARNET\SitioWebdeSUCARNET\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\aliss\Downloads\SitioWebdeSUCARNET\SitioWebdeSUCARNET\bin\roslyn\System.Console.dll
+C:\Users\aliss\Downloads\SitioWebdeSUCARNET\SitioWebdeSUCARNET\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\aliss\Downloads\SitioWebdeSUCARNET\SitioWebdeSUCARNET\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\aliss\Downloads\SitioWebdeSUCARNET\SitioWebdeSUCARNET\bin\roslyn\System.IO.Compression.dll
+C:\Users\aliss\Downloads\SitioWebdeSUCARNET\SitioWebdeSUCARNET\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\aliss\Downloads\SitioWebdeSUCARNET\SitioWebdeSUCARNET\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\aliss\Downloads\SitioWebdeSUCARNET\SitioWebdeSUCARNET\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\aliss\Downloads\SitioWebdeSUCARNET\SitioWebdeSUCARNET\bin\roslyn\System.IO.Pipes.dll
+C:\Users\aliss\Downloads\SitioWebdeSUCARNET\SitioWebdeSUCARNET\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\aliss\Downloads\SitioWebdeSUCARNET\SitioWebdeSUCARNET\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\aliss\Downloads\SitioWebdeSUCARNET\SitioWebdeSUCARNET\bin\roslyn\System.Security.Claims.dll
+C:\Users\aliss\Downloads\SitioWebdeSUCARNET\SitioWebdeSUCARNET\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\aliss\Downloads\SitioWebdeSUCARNET\SitioWebdeSUCARNET\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\aliss\Downloads\SitioWebdeSUCARNET\SitioWebdeSUCARNET\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\aliss\Downloads\SitioWebdeSUCARNET\SitioWebdeSUCARNET\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\aliss\Downloads\SitioWebdeSUCARNET\SitioWebdeSUCARNET\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\aliss\Downloads\SitioWebdeSUCARNET\SitioWebdeSUCARNET\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\aliss\Downloads\SitioWebdeSUCARNET\SitioWebdeSUCARNET\bin\roslyn\System.ValueTuple.dll
+C:\Users\aliss\Downloads\SitioWebdeSUCARNET\SitioWebdeSUCARNET\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\aliss\Downloads\SitioWebdeSUCARNET\SitioWebdeSUCARNET\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\aliss\Downloads\SitioWebdeSUCARNET\SitioWebdeSUCARNET\bin\roslyn\System.Xml.XPath.dll
+C:\Users\aliss\Downloads\SitioWebdeSUCARNET\SitioWebdeSUCARNET\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\aliss\Downloads\SitioWebdeSUCARNET\SitioWebdeSUCARNET\bin\roslyn\vbc.exe
+C:\Users\aliss\Downloads\SitioWebdeSUCARNET\SitioWebdeSUCARNET\bin\roslyn\vbc.exe.config
+C:\Users\aliss\Downloads\SitioWebdeSUCARNET\SitioWebdeSUCARNET\bin\roslyn\vbc.rsp
+C:\Users\aliss\Downloads\SitioWebdeSUCARNET\SitioWebdeSUCARNET\bin\roslyn\VBCSCompiler.exe
+C:\Users\aliss\Downloads\SitioWebdeSUCARNET\SitioWebdeSUCARNET\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\aliss\Downloads\SitioWebdeSUCARNET\SitioWebdeSUCARNET\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\aliss\Downloads\SitioWebdeSUCARNET\SitioWebdeSUCARNET\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\aliss\Downloads\SitioWebdeSUCARNET\SitioWebdeSUCARNET\bin\System.Web.Helpers.dll
+C:\Users\aliss\Downloads\SitioWebdeSUCARNET\SitioWebdeSUCARNET\bin\System.Web.Mvc.dll
+C:\Users\aliss\Downloads\SitioWebdeSUCARNET\SitioWebdeSUCARNET\bin\System.Web.Razor.dll
+C:\Users\aliss\Downloads\SitioWebdeSUCARNET\SitioWebdeSUCARNET\bin\System.Web.Webpages.Deployment.dll
+C:\Users\aliss\Downloads\SitioWebdeSUCARNET\SitioWebdeSUCARNET\bin\System.Web.Webpages.dll
+C:\Users\aliss\Downloads\SitioWebdeSUCARNET\SitioWebdeSUCARNET\bin\System.Web.Webpages.Razor.dll
+C:\Users\aliss\Downloads\SitioWebdeSUCARNET\SitioWebdeSUCARNET\bin\System.Web.Razor.xml
+C:\Users\aliss\Downloads\SitioWebdeSUCARNET\SitioWebdeSUCARNET\bin\System.Web.Webpages.xml
+C:\Users\aliss\Downloads\SitioWebdeSUCARNET\SitioWebdeSUCARNET\bin\System.Web.Webpages.Deployment.xml
+C:\Users\aliss\Downloads\SitioWebdeSUCARNET\SitioWebdeSUCARNET\bin\System.Web.Webpages.Razor.xml
+C:\Users\aliss\Downloads\SitioWebdeSUCARNET\SitioWebdeSUCARNET\bin\System.Web.Helpers.xml
+C:\Users\aliss\Downloads\SitioWebdeSUCARNET\SitioWebdeSUCARNET\bin\System.Web.Mvc.xml
+C:\Users\aliss\Downloads\SitioWebdeSUCARNET\SitioWebdeSUCARNET\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\aliss\Downloads\SitioWebdeSUCARNET\SitioWebdeSUCARNET\bin\es\System.Web.Razor.resources.dll
+C:\Users\aliss\Downloads\SitioWebdeSUCARNET\SitioWebdeSUCARNET\bin\es\System.Web.Webpages.resources.dll
+C:\Users\aliss\Downloads\SitioWebdeSUCARNET\SitioWebdeSUCARNET\bin\es\System.Web.Webpages.Deployment.resources.dll
+C:\Users\aliss\Downloads\SitioWebdeSUCARNET\SitioWebdeSUCARNET\bin\es\System.Web.Webpages.Razor.resources.dll
+C:\Users\aliss\Downloads\SitioWebdeSUCARNET\SitioWebdeSUCARNET\bin\es\System.Web.Helpers.resources.dll
+C:\Users\aliss\Downloads\SitioWebdeSUCARNET\SitioWebdeSUCARNET\bin\es\System.Web.Mvc.resources.dll
+C:\Users\aliss\Downloads\SitioWebdeSUCARNET\SitioWebdeSUCARNET\obj\Debug\SitioWebdeSUCARNET.csproj.AssemblyReference.cache
+C:\Users\aliss\Downloads\SitioWebdeSUCARNET\SitioWebdeSUCARNET\obj\Debug\SitioWebdeSUCARNET.csproj.CoreCompileInputs.cache
+C:\Users\aliss\Downloads\SitioWebdeSUCARNET\SitioWebdeSUCARNET\obj\Debug\SitioWebdeSUCARNET.csproj.CopyComplete
+C:\Users\aliss\Downloads\SitioWebdeSUCARNET\SitioWebdeSUCARNET\obj\Debug\SitioWebdeSUCARNET.dll
+C:\Users\aliss\Downloads\SitioWebdeSUCARNET\SitioWebdeSUCARNET\obj\Debug\SitioWebdeSUCARNET.pdb
