@@ -1,0 +1,10 @@
+C:\Users\Javier Turcios\Desktop\Practica3DSP\ListaNombres\ListaNombres\bin\Debug\ListaNombres.exe.config
+C:\Users\Javier Turcios\Desktop\Practica3DSP\ListaNombres\ListaNombres\bin\Debug\ListaNombres.exe
+C:\Users\Javier Turcios\Desktop\Practica3DSP\ListaNombres\ListaNombres\bin\Debug\ListaNombres.pdb
+C:\Users\Javier Turcios\Desktop\Practica3DSP\ListaNombres\ListaNombres\obj\Debug\ListaNombres.csproj.AssemblyReference.cache
+C:\Users\Javier Turcios\Desktop\Practica3DSP\ListaNombres\ListaNombres\obj\Debug\ListaNombres.Form1.resources
+C:\Users\Javier Turcios\Desktop\Practica3DSP\ListaNombres\ListaNombres\obj\Debug\ListaNombres.Properties.Resources.resources
+C:\Users\Javier Turcios\Desktop\Practica3DSP\ListaNombres\ListaNombres\obj\Debug\ListaNombres.csproj.GenerateResource.cache
+C:\Users\Javier Turcios\Desktop\Practica3DSP\ListaNombres\ListaNombres\obj\Debug\ListaNombres.csproj.CoreCompileInputs.cache
+C:\Users\Javier Turcios\Desktop\Practica3DSP\ListaNombres\ListaNombres\obj\Debug\ListaNombres.exe
+C:\Users\Javier Turcios\Desktop\Practica3DSP\ListaNombres\ListaNombres\obj\Debug\ListaNombres.pdb

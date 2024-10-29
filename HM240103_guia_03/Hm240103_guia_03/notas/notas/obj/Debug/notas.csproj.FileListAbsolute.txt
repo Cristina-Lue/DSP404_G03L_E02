@@ -1,0 +1,10 @@
+C:\Users\Javier Turcios\Desktop\Practica3DSP\notas\notas\bin\Debug\notas.exe.config
+C:\Users\Javier Turcios\Desktop\Practica3DSP\notas\notas\bin\Debug\notas.exe
+C:\Users\Javier Turcios\Desktop\Practica3DSP\notas\notas\bin\Debug\notas.pdb
+C:\Users\Javier Turcios\Desktop\Practica3DSP\notas\notas\obj\Debug\notas.csproj.AssemblyReference.cache
+C:\Users\Javier Turcios\Desktop\Practica3DSP\notas\notas\obj\Debug\notas.Form1.resources
+C:\Users\Javier Turcios\Desktop\Practica3DSP\notas\notas\obj\Debug\notas.Properties.Resources.resources
+C:\Users\Javier Turcios\Desktop\Practica3DSP\notas\notas\obj\Debug\notas.csproj.GenerateResource.cache
+C:\Users\Javier Turcios\Desktop\Practica3DSP\notas\notas\obj\Debug\notas.csproj.CoreCompileInputs.cache
+C:\Users\Javier Turcios\Desktop\Practica3DSP\notas\notas\obj\Debug\notas.exe
+C:\Users\Javier Turcios\Desktop\Practica3DSP\notas\notas\obj\Debug\notas.pdb
