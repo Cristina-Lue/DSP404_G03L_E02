@@ -1,0 +1,2 @@
+C:\Users\mary2\Downloads\Turnover_SA_de_CV_\Turnover_SA_de_CV_New\obj\Debug\Turnover_SA_de_CV_New.csproj.AssemblyReference.cache
+C:\Users\mary2\Downloads\Turnover_SA_de_CV_\Turnover_SA_de_CV_New\obj\Debug\Turnover_SA_de_CV_New.csproj.CoreCompileInputs.cache
